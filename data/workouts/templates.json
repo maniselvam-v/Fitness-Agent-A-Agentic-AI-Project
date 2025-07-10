@@ -1,0 +1,94 @@
+{
+    "beginner": {
+        "full_body": [
+            {
+                "exercise": "Push-ups",
+                "sets": 3,
+                "reps": "10-12",
+                "rest": "60s",
+                "notes": "Modify with knee push-ups if needed"
+            },
+            {
+                "exercise": "Squats",
+                "sets": 3,
+                "reps": "12-15",
+                "rest": "60s",
+                "notes": "Bodyweight or light dumbbells"
+            },
+            {
+                "exercise": "Plank",
+                "sets": 3,
+                "reps": "30s",
+                "rest": "45s",
+                "notes": "Focus on form"
+            },
+            {
+                "exercise": "Dumbbell Rows",
+                "sets": 3,
+                "reps": "12-15 each",
+                "rest": "60s",
+                "notes": "Use light dumbbells"
+            }
+        ],
+        "upper_body": [
+            {
+                "exercise": "Push-ups",
+                "sets": 3,
+                "reps": "10-12",
+                "rest": "60s",
+                "notes": "Modify with knee push-ups if needed"
+            },
+            {
+                "exercise": "Dumbbell Rows",
+                "sets": 3,
+                "reps": "12-15 each",
+                "rest": "60s",
+                "notes": "Use light dumbbells"
+            },
+            {
+                "exercise": "Shoulder Press",
+                "sets": 3,
+                "reps": "10-12",
+                "rest": "60s",
+                "notes": "Use light dumbbells"
+            },
+            {
+                "exercise": "Bicep Curls",
+                "sets": 3,
+                "reps": "12-15",
+                "rest": "45s",
+                "notes": "Use light dumbbells"
+            }
+        ],
+        "lower_body": [
+            {
+                "exercise": "Squats",
+                "sets": 3,
+                "reps": "12-15",
+                "rest": "60s",
+                "notes": "Bodyweight or light dumbbells"
+            },
+            {
+                "exercise": "Lunges",
+                "sets": 3,
+                "reps": "10-12 each",
+                "rest": "60s",
+                "notes": "Bodyweight or light dumbbells"
+            },
+            {
+                "exercise": "Glute Bridges",
+                "sets": 3,
+                "reps": "12-15",
+                "rest": "45s",
+                "notes": "Focus on form"
+            },
+            {
+                "exercise": "Calf Raises",
+                "sets": 3,
+                "reps": "15-20",
+                "rest": "45s",
+                "notes": "Bodyweight or light dumbbells"
+            }
+        ]
+    }
+} 

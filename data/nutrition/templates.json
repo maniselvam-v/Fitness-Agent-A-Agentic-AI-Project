@@ -1,0 +1,137 @@
+{
+    "vegetarian": {
+        "breakfast": [
+            {
+                "name": "Greek Yogurt Bowl",
+                "ingredients": [
+                    "Greek yogurt (200g)",
+                    "Mixed berries (100g)",
+                    "Granola (30g)",
+                    "Honey (1 tbsp)"
+                ],
+                "macros": {
+                    "calories": 350,
+                    "protein": 20,
+                    "carbs": 45,
+                    "fat": 12
+                }
+            },
+            {
+                "name": "Oatmeal with Nuts",
+                "ingredients": [
+                    "Oats (50g)",
+                    "Almond milk (200ml)",
+                    "Banana (1 medium)",
+                    "Mixed nuts (30g)",
+                    "Cinnamon (1 tsp)"
+                ],
+                "macros": {
+                    "calories": 400,
+                    "protein": 12,
+                    "carbs": 60,
+                    "fat": 15
+                }
+            }
+        ],
+        "lunch": [
+            {
+                "name": "Quinoa Bowl",
+                "ingredients": [
+                    "Quinoa (100g cooked)",
+                    "Roasted vegetables (200g)",
+                    "Chickpeas (100g)",
+                    "Avocado (1/2)",
+                    "Olive oil (1 tbsp)"
+                ],
+                "macros": {
+                    "calories": 450,
+                    "protein": 15,
+                    "carbs": 55,
+                    "fat": 20
+                }
+            },
+            {
+                "name": "Mediterranean Salad",
+                "ingredients": [
+                    "Mixed greens (100g)",
+                    "Cherry tomatoes (100g)",
+                    "Cucumber (100g)",
+                    "Feta cheese (50g)",
+                    "Olives (30g)",
+                    "Olive oil (1 tbsp)"
+                ],
+                "macros": {
+                    "calories": 350,
+                    "protein": 12,
+                    "carbs": 15,
+                    "fat": 25
+                }
+            }
+        ],
+        "dinner": [
+            {
+                "name": "Tofu Stir-Fry",
+                "ingredients": [
+                    "Tofu (150g)",
+                    "Brown rice (100g cooked)",
+                    "Mixed vegetables (200g)",
+                    "Soy sauce (2 tbsp)",
+                    "Sesame oil (1 tbsp)"
+                ],
+                "macros": {
+                    "calories": 400,
+                    "protein": 20,
+                    "carbs": 45,
+                    "fat": 15
+                }
+            },
+            {
+                "name": "Vegetable Curry",
+                "ingredients": [
+                    "Mixed vegetables (300g)",
+                    "Coconut milk (200ml)",
+                    "Quinoa (100g cooked)",
+                    "Curry powder (2 tsp)",
+                    "Ginger (1 tsp)"
+                ],
+                "macros": {
+                    "calories": 450,
+                    "protein": 12,
+                    "carbs": 50,
+                    "fat": 22
+                }
+            }
+        ],
+        "snacks": [
+            {
+                "name": "Protein Smoothie",
+                "ingredients": [
+                    "Plant protein powder (30g)",
+                    "Almond milk (200ml)",
+                    "Banana (1 medium)",
+                    "Spinach (50g)"
+                ],
+                "macros": {
+                    "calories": 250,
+                    "protein": 25,
+                    "carbs": 30,
+                    "fat": 5
+                }
+            },
+            {
+                "name": "Trail Mix",
+                "ingredients": [
+                    "Mixed nuts (30g)",
+                    "Dried fruits (20g)",
+                    "Dark chocolate (20g)"
+                ],
+                "macros": {
+                    "calories": 200,
+                    "protein": 6,
+                    "carbs": 20,
+                    "fat": 12
+                }
+            }
+        ]
+    }
+} 
