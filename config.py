@@ -3,7 +3,7 @@ Configuration settings for FitMate
 """
 
 # API Keys
-OPENAI_API_KEY = "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"  # Replace with your actual API key
+OPENAI_API_KEY = "abc"  # API key
 
 # Application Settings
 APP_NAME = "FitMate AI Coach"
